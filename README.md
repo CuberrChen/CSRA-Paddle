@@ -25,6 +25,7 @@ CSRA通过提出一个简单的空间注意力分数为每个类别生成特定�
 | :---: | :---: | :---: |:---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |Resnet101+CSRA|30|SGD|0.01|448x448|16|VOC2007|1xV100|94.7(94.697)|(链接: https://pan.baidu.com/s/1FAJGVQRpOj_gdG8m70Qwqg?pwd=4w2u 提取码: 4w2u 复制这段内容后打开百度网盘手机App，操作更方便哦)|[log](output/train.log)|
 
+**训练日志放在output/train.log. best mAP为 第 11 epoch eval结果**
 AIStudio预训练权重：[AIStudio预训练权重](https://aistudio.baidu.com/aistudio/datasetdetail/137949)
 
 ## 3 数据集
